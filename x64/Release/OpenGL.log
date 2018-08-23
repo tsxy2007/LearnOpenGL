@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2001: unresolved external symbol glfwWindowHint
+main.obj : error LNK2001: unresolved external symbol __imp_glewInit
+E:\Projects\OpenGL\x64\Release\OpenGL.exe : fatal error LNK1120: 2 unresolved externals
